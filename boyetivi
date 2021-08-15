@@ -22,38 +22,7 @@ http://51.222.105.5:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="TODO ES MAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
 http://51.222.105.5:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@zxcvbnmzz
-jsosao /
-m3u
 
-3
-5
-
-    3
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-m3u/mylist.m3u8
-@jsosao
-jsosao Update mylist.m3u8
-Latest commit fb8e068 2 days ago
-History
-1 contributor
-999 lines (972 sloc) 94.1 KB
-#EXTM3U
 
 ******************************************** TELEGRAM EXTM3U GROUP ***************************************************
 
@@ -673,80 +642,6 @@ http://gratuita.mrzutv.net:8080/tetetetetetetetetetetetetetetetetetetetetetetete
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES DE HOY2 MRZUTV.NET" tvg-logo="" group-title="DEPORTES DE HOY",DEPORTES DE HOY2 MRZUTV.NET
 http://gratuita.mrzutv.net:8080/tetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetete/tetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetete/41506
 
-*************************** REGIO TV MX******************************************
-
-#EXTINF:-1 group-title="LISTA MX", ONCE NINOS (CLASES)
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", AZTECA 7.3 (CLASES)
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", AZTECA UNO HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="LISTA MX", AZ CLIC HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=17&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", CANAL 5
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=20&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", AZTECA 7
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=21&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", NU9VE
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=24&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", ONCE
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=25&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", AZTECA UNO
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=27&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", TELEFORMULA SD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", MEXIQUENSE TV
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="LISTA MX", AZ CORAZON 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=70&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", AZ MUNDO
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=84&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", AZTECA 7 HD 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", AZTECA 7 HD (2)
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=322&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", IMAGEN TV  
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS MTY
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", APREDNE TV
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=401&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS CDMX
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", NU9VE HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", LAS ESTRELLAS HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", CANAL 5 HD (2)
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="LISTA MX", ONCE HD 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MVS TV
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", TVC
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", CANAL 4 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", CANAL 8
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", TELEVISA PUEBLA
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", A+ 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", TVMAS
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", CANAL DEL CONGRESO
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS CDMX
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", IMAGEN TV HD  
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", ACADEMIA
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MULTIMEDIOS HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
 
 
 *** INFANTILES ***
@@ -981,27 +876,7 @@ http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2379&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="LISTA MX", CURIOSITY STREAM
 http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
 
-*** MUSICA ***
-#EXTINF:-1 group-title="LISTA MX", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=211&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MTV
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=212&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", MTV HITS SD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=213&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", VH1 CLASSIC SD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=214&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", VH1 SD 
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=217&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", TELEHIT URBANO SD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=218&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", TELEHIT +
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=220&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", BANDAMAX SD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=221&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="LISTA MX", AZ CLIC
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=223&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="LISTA MX", VH1 HD
-http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=334&p=3&k=srregio&f=.m3u8  
+
 
 
 *** NOTICIAS ***
