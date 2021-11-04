@@ -1,77 +1,4 @@
-******************************************** TELEGRAM EXTM3U GROUP ***************************************************
-#EXTINF:-1 group-title="USA",BEIN SPORTS 6HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
 
-
-
-******************************************** TDT CHANNELS ***************************************************
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="Europa",CNN Internacional
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="Europa",Bloomberg Europe EN
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Europa",France 24 Francia
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Europa",France 24 Francia EN
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Europa",France 24 Francia FR
-https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Europa",TV5Monde Francia FR
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgcom24/picture?width=200&height=200" group-title="Europa",TGCom24 Italia IT
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Europa",Rai News 24 Italia IT
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/La5mediaset/picture?width=200&height=200" group-title="Europa",La5 Italia IT
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Europa",DW Alemania
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Europa",DW Alemania EN
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Europa",DW Alemania DE
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" group-title="Europa",Das Erste Alemania DE
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Europa",Sky News UK EN
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="Europa",GB News UK EN
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Europa",RT News EN
-https://rt-news-gd.secure2.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Europa",RT News EN
-https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Europa",RT News EN
-https://rt-usa-gd.secure2.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Europa",RT News FR
-https://rt-france-gd.secure2.footprint.net/1107.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/FOXNews/picture?width=200&height=200" group-title="America",FOX News USA EN
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="America",ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="America",CBS News USA EN
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="America",The Weather Channel USA
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="America",WeatherNation USA
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="America",Newsmax TV USA EN
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="Asia",NHK World Japan EN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="Asia",Nippon News TV Japan
-https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="Asia",Arirang TV Korea EN
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Hispantv/picture?width=200&height=200" group-title="Asia",Hispan TV Iran
-https://live.presstv.ir/live/smil:live.smil/hispan.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTHK.HK/picture?width=200&height=200" group-title="Asia",RTHK 31 32 Hong Kong
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTHK.HK/picture?width=200&height=200" group-title="Asia",RTHK 31 32 Hong Kong
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -424,3 +351,219 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90Rn1HpM/IP1.png" group-title="SPORT",ASSP 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:0,|DSTV| SuperSport 1 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61152
+#EXTINF:0,|DSTV| SuperSport 2 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61153
+#EXTINF:0,|DSTV| SuperSport 3 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61154
+#EXTINF:0,|DSTV| SuperSport 4 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61155
+#EXTINF:0,|DSTV| SuperSport 5 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61156
+#EXTINF:0,|DSTV| SuperSport 6 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61157
+#EXTINF:0,|DSTV| SuperSport 7 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61158
+#EXTINF:0,|DSTV| SuperSport 8 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61159
+#EXTINF:0,|DSTV| SuperSport 9 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61160
+#EXTINF:0,|DSTV| SuperSport 10 FHD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61161
+#EXTINF:0,|DSTV| M-Net Plus 1 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61162
+#EXTINF:0,|DSTV| M-Net Movies Smile HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61163
+#EXTINF:0,|DSTV| M-Net Movies Premiere HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61164
+#EXTINF:0,|DSTV| M-Net Movies All Stars HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61165
+#EXTINF:0,|DSTV| M-Net Movies Action Plus HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61166
+#EXTINF:0,|DSTV| M-Net Movies Action HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61167
+#EXTINF:0,|DSTV| M-Net HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61168
+#EXTINF:0,|DSTV| Lesotho TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61169
+#EXTINF:0,|DSTV| Ginx eSports TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61170
+#EXTINF:0,|DSTV| kykNET HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61171
+#EXTINF:0,|DSTV| JimJam HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61172
+#EXTINF:0,|DSTV| iTV Networks HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61173
+#EXTINF:0,|DSTV| Ignition HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61174
+#EXTINF:0,|DSTV| HGTV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61175
+#EXTINF:0,|DSTV| GauTV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61176
+#EXTINF:0,|DSTV| Fashion One HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61177
+#EXTINF:0,|DSTV| e.TV Extra HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61178
+#EXTINF:0,|DSTV| FAITH HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61179
+#EXTINF:0,|DSTV| eToonz HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61180
+#EXTINF:0,|DSTV| eNCA HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61181
+#EXTINF:0,|DSTV| eMovies Extra HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61182
+#EXTINF:0,|DSTV| eMovies HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61183
+#EXTINF:0,|DSTV| Emmanuel TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61184
+#EXTINF:0,|DSTV| e tv HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61185
+#EXTINF:0,|DSTV| Dumisa HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61186
+#EXTINF:0,|DSTV| Deutsche Welle HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61187
+#EXTINF:0,|DSTV| CGTN News HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61188
+#EXTINF:0,|DSTV| BVN HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61190
+#EXTINF:0,|DSTV| Daystar HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61191
+#EXTINF:0,|DSTV| Crime + Investigation HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61192
+#EXTINF:0,|DSTV| Comedy Central HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61193
+#EXTINF:0,|DSTV| CNBC Africa HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61194
+#EXTINF:0,|DSTV| Africa Magic Family HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61195
+#EXTINF:0,|DSTV| Bloomberg HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61196
+#EXTINF:0,|DSTV| Bay TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61197
+#EXTINF:0,|DSTV| Africa Magic Epic HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61198
+#EXTINF:0,|DSTV| 1 KZN HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61199
+#EXTINF:0,|DSTV| Newzroom Afrika HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61200
+#EXTINF:0,|DSTV| Nickelodeon HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61201
+#EXTINF:0,|DSTV| PBS Kids HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61204
+#EXTINF:0,|DSTV| Real Time HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61206
+#EXTINF:0,|DSTV| RTP Internacional HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61207
+#EXTINF:0,|DSTV| SABC 1 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61208
+#EXTINF:0,|DSTV| SABC 2 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61209
+#EXTINF:0,|DSTV| Soweto TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61210
+#EXTINF:0,|DSTV| SABC 3 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61211
+#EXTINF:0,|DSTV| SABC News HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61212
+#EXTINF:0,|DSTV| SOUNDCITY HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61213
+#EXTINF:0,|DSTV| Spice TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61214
+#EXTINF:0,|DSTV| Star Life HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61215
+#EXTINF:0,|DSTV| TellyTrack HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61217
+#EXTINF:0,|DSTV| TNT Africa HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61219
+#EXTINF:0,|DSTV| Travel Channel HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61220
+#EXTINF:0,|DSTV| Tshwane TV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61221
+#EXTINF:0,|DSTV| TV5 Monde Afrique HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61223
+#EXTINF:0,|DSTV| NDTV247 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61225
+#EXTINF:0,|DSTV| Mzansi Magic HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61226
+#EXTINF:0,|DSTV| MTV Music 24 HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61227
+#EXTINF:0,|DSTV| MTV Base HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61228
+#EXTINF:0,|DSTV| MTV HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61229
+#EXTINF:0,|DSTV| MojaLove HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61230
+#EXTINF:0,|DSTV| Mindset HD ZA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/61231
