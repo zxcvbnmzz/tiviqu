@@ -1,15 +1,3 @@
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",CineMax Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbomax.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbo.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbofamily.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbohits.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
-https://raw.githubusercontent.com/apistech/IPTV/master/hbosig.m3u8
-
 #EXTINF:-1 group-title="VIDIO",Berita Satu News
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 #EXTINF:-1 group-title="VIDIO",DAAI TV
